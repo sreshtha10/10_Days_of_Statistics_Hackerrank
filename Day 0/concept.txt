@@ -1,0 +1,12 @@
+Purplemath
+Mean, median, and mode are three kinds of "averages"
+
+Mean: The "average" number; found by adding all data points and dividing by the number of data points.
+Example: The mean of 444, 111, and 777 is (4+1+7)/3 = 12/3 = 4(4+1+7)/3=12/3=4left parenthesis, 4, plus, 1, plus, 7, right parenthesis, slash, 3, equals, 12, slash, 3, equals, 4.
+
+Median: The middle number; found by ordering all data points and picking out the one in the middle (or if there are two middle numbers, taking the mean of those two numbers).
+Example: The median of 444, 111, and 777 is 444 because when the numbers are put in order (1(1left parenthesis, 1, 444, 7)7)7, right parenthesis, the number 444 is in the middle
+
+Mode: The most frequent number—that is, the number that occurs the highest number of times.
+Example: The mode of \{4{4left brace, 4, 222, 444, 333, 222, 2\}2}2, right brace is 222 because it occurs three times, which is more than any other number.
+
