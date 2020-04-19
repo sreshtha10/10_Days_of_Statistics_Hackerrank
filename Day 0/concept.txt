@@ -10,3 +10,11 @@ Example: The median of 444, 111, and 777 is 444 because when the numbers are put
 Mode: The most frequent number—that is, the number that occurs the highest number of times.
 Example: The mode of \{4{4left brace, 4, 222, 444, 333, 222, 2\}2}2, right brace is 222 because it occurs three times, which is more than any other number.
 
+
+
+In some cases, you might want a number to have more weight. In that case, you’ll want to find the weighted mean.
+Given a discrete set of numbers, X, and a corresponding set of weights, W, the weighted mean is calculated as follows:
+
+Multiply the numbers in your data set by the weights.
+Add the results up.
+Divide by total weight
