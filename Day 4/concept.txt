@@ -1,0 +1,17 @@
+The binomial distribution formula is:
+b(x; n, P) = nCx * Px * (1 – P)n – x
+Where:
+b = binomial probability
+x = total number of “successes” (pass or fail, heads or tails etc.)
+P = probability of a success on an individual trial
+n = number of trials
+
+Geometric distribution" can mean the distribution of the number of independent trials needed to get one success, with probability p of success on each trial, or sometimes with probability p of failure on each trial (so the probability of success is 1−p)
+Geometric distribution - A discrete random variable X is said to have a geometric distribution if it has a probability density function (p.d.f.) of the form:
+P(X = x) = q(x-1)p, where q = 1 - p
+If X has a geometric distribution with parameter p, we write X ~ Geo(p)
+Expectation and Variance
+If X ~ Geo(p), then:
+E(X) = 1/p
+Var(X) = q/p2, where q = 1 – p
+
