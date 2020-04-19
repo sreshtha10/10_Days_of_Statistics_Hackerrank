@@ -1,0 +1,22 @@
+Standard deviation is a number used to tell how measurements for a group are spread out from the average (mean), or expected value. A low standard deviation means that most of the numbers are close to the average.
+A high standard deviation means that the numbers are more spread out.
+Steps to find Standard Deviation:
+Step 1: Find the mean.
+Step 2: For each data point, find the square of its distance to the mean.
+Step 3: Sum the values from Step 2.
+Step 4: Divide by the number of data points.
+Step 5: Take the square root.
+
+
+A quartile is a statistical term describing a division of observations into four defined intervals based upon the values of the data and how they compare to the entire set of observations. 
+Q1: The first quartile is the middle number between the smallest number in a data set and its median.
+Q2: The second quartile is the median ( percentile) of the data set.
+Q3: The third quartile is the middle number between a data set's median and its largest number.
+We will split the data into two halves, lower half and upper half:
+If there are an odd number of data points in the original ordered data set, do not include the median (the central value in the ordered list) in either half.
+If there are an even number of data points in the original ordered data set, split this data set exactly in half.
+The value of the first quartile (Q1) is the median of the lower half and the value of the third quartile (Q3) is the median of the upper half.
+
+Interquartile range:
+  It is the difference between the third and the first quartile
+  
