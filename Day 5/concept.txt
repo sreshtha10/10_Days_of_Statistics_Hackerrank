@@ -1,0 +1,13 @@
+A Poisson distribution is the probability distribution that results from a Poisson experiment.
+Attributes of a Poisson Experiment
+A Poisson experiment is a statistical experiment that has the following properties:
+The experiment results in outcomes that can be classified as successes or failures.
+The average number of successes (μ) that occurs in a specified region is known.
+The probability that a success will occur is proportional to the size of the region.
+The probability that a success will occur in an extremely small region is virtually zero.
+Poisson Formula. Suppose we conduct a Poisson experiment, in which the average number of successes within a given region is μ. Then, the Poisson probability is:
+P(x; μ) = (e-μ) (μx) / x!
+
+
+Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean.
+In graph form, normal distribution will appear as a bell curve.
